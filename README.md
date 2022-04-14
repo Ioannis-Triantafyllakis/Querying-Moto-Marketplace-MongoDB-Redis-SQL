@@ -9,6 +9,7 @@ The datasets used are the following:</br>
 read all the json files with the motorcycle listings.</br>
 </br>
 
+R Source files:
 1. In *Redis_Queries.R* R source file, there are some queries regarding the emails the users got and their modifications</br>
 2. In *MongoDB_Queries.R* R source file, there are queries regarding the motorcycle listings</br>
 3. In *SQL_vs_Redis_exec_time.R* R source file, the first 4 queries from *Redis_Queries.R* are being implemented by SQL (MySQL Workbench) </br>
